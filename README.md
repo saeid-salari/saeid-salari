@@ -38,7 +38,13 @@ I specialize in:
 ## 💼 Featured Projects
 
 ### 🏡 AI Home Design
-High-performance AI-powered interior design platform focused on fast rendering and seamless UX.
+
+AI-powered interior design platform optimized for performance and SEO.
+
+- Nuxt SSR Architecture
+- Optimized image rendering pipeline
+- Real-time processing workflows
+- Performance-focused frontend architecture
 
 🔗 https://aihomedesign.com
 
