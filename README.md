@@ -1,6 +1,6 @@
 # Hi there, I'm Saeid Salari 👋
 
-### Senior Front-End Developer | React • Vue • Nuxt • TypeScript
+### Building scalable frontend systems with React, Vue, Nuxt, and TypeScript.Focused on performance, SEO, and real-time user experiences.
 
 I’m a results-driven Front-End Engineer with 6+ years of experience building scalable, high-performance web applications and real-time user experiences.
 
