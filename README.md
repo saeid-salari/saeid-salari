@@ -46,21 +46,21 @@ AI-powered interior design platform optimized for performance and SEO.
 - Real-time processing workflows
 - Performance-focused frontend architecture
 
-🔗 https://aihomedesign.com
+🔗 [Live Demo](https://aihomedesign.com)
 
 ---
 
 ### 🎨 Revivoto
 Real estate image enhancement and virtual staging platform built for scalability and performance.
 
-🔗 https://revivoto.com
+🔗 [Live Demo](https://revivoto.com)
 
 ---
 
 ### 🧪 Revive Design Lab
 Modern web platform with responsive UI and optimized frontend architecture.
 
-🔗 https://revivedesignlab.org
+🔗 [Live Demo](https://revivedesignlab.org)
 
 ---
 
