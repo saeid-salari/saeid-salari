@@ -75,6 +75,29 @@ Modern web platform with responsive UI and optimized frontend architecture.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saeid-salari&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeid-salari&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saeid-salari&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeid-salari&hide_border=true" />
+</p>
+
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/saeid-salari
